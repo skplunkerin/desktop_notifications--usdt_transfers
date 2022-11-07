@@ -142,3 +142,5 @@ Web3 tutorial [found here](https://youtu.be/QtstmvVeI18).
 
         To start stream, `Activate Stream` by hovering over the 3 dots (...)
         icon
+
+6. Watch the notifications come in
