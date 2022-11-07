@@ -114,6 +114,9 @@ Web3 tutorial [found here](https://youtu.be/QtstmvVeI18).
 
       # This is where you can filter the results before they hit your project.
       ## For additional filters: https://github.com/MoralisWeb3/streams-beta#filter-streams
+      ##
+      ## NOTE: REMOVE the trailing comma's or Moralis will error (my code
+      ## formatter keeps adding them back in).
       Advanced Options (optional):
         [
           {
@@ -122,3 +125,20 @@ Web3 tutorial [found here](https://youtu.be/QtstmvVeI18).
           },
         ]
       ```
+
+   4. When done:
+
+      - Create Stream:
+
+        Click `Create Stream` to finish creating the stream
+
+        - you should see items streaming in when activity happens
+
+      - Pause Stream:
+
+        When done testing, `Pause Stream` by hovering over the 3 dots (...) icon
+
+      - Activate Stream:
+
+        To start stream, `Activate Stream` by hovering over the 3 dots (...)
+        icon
